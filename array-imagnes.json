@@ -1,0 +1,27 @@
+[{
+"uuid":"f9e690f8-5d5b-4026-8ae4-bd4fb1d80788",
+"url":"https://s3-sa-east-1.amazonaws.com/producoesr2/galeria-tv/6f571d664eacaee0a48d807ca9abdc74.png",
+"descricao":null,
+"ativo":true,
+"cadastro":"2019-05-16 11:39:17",
+"atualizacao":"2019-05-16 11:39:17",
+"delecao":null,"delay":null,"id_produto":1
+},
+{
+"uuid":"e6e0d97f-985c-48af-ae48-05111601b93b",
+"url":"https://s3-sa-east-1.amazonaws.com/producoesr2/galeria-tv/65f82cfbd1f82f8133d95c3b09812a3e.png",
+"descricao":null,
+"ativo":false,
+"cadastro":"2019-02-15 11:54:16",
+"atualizacao":"2019-02-15 11:54:15",
+"delecao":null,"delay":9000,"id_produto":1
+}
+,{
+"uuid":"47b337bf-cbe4-417c-bff2-6363aca7caa8",
+"url":"https://s3-sa-east-1.amazonaws.com/producoesr2/galeria-tv/c037599eccc7217b62a30879764b1c18.jpg",
+"descricao":"primeira imagem",
+"ativo":true,
+"cadastro":"2019-02-14 20:06:57",
+"atualizacao":"2019-02-14 20:06:56",
+"delecao":null,"delay":5000,"id_produto":1
+}]
