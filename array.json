@@ -1,1 +1,17 @@
-[{"uuid":"38bd9d96-03d3-46b8-b001-9942605f9524","nome":"bar 1","cadastro":"2019-05-16 11:09:54","atualizacao":"2019-05-16 11:09:53","delecao":"2019-05-16 11:09:54","ativo":true},{"uuid":"a50ceb1a-48c2-4a04-aec3-364e9dae9ace","nome":"bar 2","cadastro":"2019-05-16 11:11:43","atualizacao":"2019-05-16 11:11:42","delecao":"2019-05-16 11:11:43","ativo":true}]
+[{"uuid":"38bd9d96-03d3-46b8-b001-9942605f9524",
+  "nome":"bar 1",
+  "id": "bar1";
+  "cadastro":"2019-05-16 11:09:54",
+  "atualizacao":"2019-05-16 11:09:53",
+  "delecao":"2019-05-16 11:09:54",
+  "ativo":true
+ }
+ ,{
+   "uuid":"a50ceb1a-48c2-4a04-aec3-364e9dae9ace",
+   "nome":"bar 2",
+   "id": "bar2";
+   "cadastro":"2019-05-16 11:11:43",
+   "atualizacao":"2019-05-16 11:11:42",
+   "delecao":"2019-05-16 11:11:43",
+   "ativo":true
+ }]
